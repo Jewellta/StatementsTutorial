@@ -1,0 +1,13 @@
+C:\repos\StatementsTutorial\StatementsTutorial\bin\Debug\netcoreapp3.1\StatementsTutorial.exe
+C:\repos\StatementsTutorial\StatementsTutorial\bin\Debug\netcoreapp3.1\StatementsTutorial.deps.json
+C:\repos\StatementsTutorial\StatementsTutorial\bin\Debug\netcoreapp3.1\StatementsTutorial.runtimeconfig.json
+C:\repos\StatementsTutorial\StatementsTutorial\bin\Debug\netcoreapp3.1\StatementsTutorial.runtimeconfig.dev.json
+C:\repos\StatementsTutorial\StatementsTutorial\bin\Debug\netcoreapp3.1\StatementsTutorial.dll
+C:\repos\StatementsTutorial\StatementsTutorial\bin\Debug\netcoreapp3.1\StatementsTutorial.pdb
+C:\repos\StatementsTutorial\StatementsTutorial\obj\Debug\netcoreapp3.1\StatementsTutorial.csprojAssemblyReference.cache
+C:\repos\StatementsTutorial\StatementsTutorial\obj\Debug\netcoreapp3.1\StatementsTutorial.AssemblyInfoInputs.cache
+C:\repos\StatementsTutorial\StatementsTutorial\obj\Debug\netcoreapp3.1\StatementsTutorial.AssemblyInfo.cs
+C:\repos\StatementsTutorial\StatementsTutorial\obj\Debug\netcoreapp3.1\StatementsTutorial.csproj.CoreCompileInputs.cache
+C:\repos\StatementsTutorial\StatementsTutorial\obj\Debug\netcoreapp3.1\StatementsTutorial.dll
+C:\repos\StatementsTutorial\StatementsTutorial\obj\Debug\netcoreapp3.1\StatementsTutorial.pdb
+C:\repos\StatementsTutorial\StatementsTutorial\obj\Debug\netcoreapp3.1\StatementsTutorial.genruntimeconfig.cache
